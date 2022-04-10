@@ -2,8 +2,8 @@
 
 ## What is the use of this Repo
 
-This Project is a Simple ReactJS Project which demonstrates the following
-1. The implementation of 
+This Project is a Simple ReactJS Project which demonstrates the implementation of 
+
    - **useRef**
    -  **useContext**,
    -  **useState** 
